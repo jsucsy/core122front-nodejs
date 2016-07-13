@@ -1,1 +1,4 @@
 /dist
+nohup.out
+runserver.sh
+
